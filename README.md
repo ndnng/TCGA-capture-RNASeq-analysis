@@ -6,8 +6,11 @@ expression_analysis-Github.ipynb (analyze differences between polyA and capture 
 gencode_analysis-Github.ipynb (find differences in gene records between gencode and capture)
 
 Main input files:
+
 truseq-rna-exome-targeted-regions-manifest-v1-2.bed (on Illumina) -> liftover to V38
+
 gencode.v22.annotation.gtf (on GENCODE)
+
 complete_genome_data.txt (final consensus on the amount/percents of gene transcripts captured)
 
 ABSTRACT
